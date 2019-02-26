@@ -1,2 +1,0 @@
-# GradleHelloWorld
-Gradle Project Test
